@@ -1,0 +1,32 @@
+html, body {
+    margin: 0 ;
+    overflow: hidden ;
+}
+
+.timg {
+    width : 100rem ;
+    
+} 
+
+.input {
+    width : 30rem ;
+    height : 3rem ;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 2rem;
+    color: #2BCAA5 ;
+    border-width: 12px;
+    border-color: blueviolet;
+}
+
+.playbtn {
+    width : 20rem ;
+    height : 10rem ;
+    background-color: antiquewhite;
+    color: chocolate ;
+    font-weight: bold ;
+    font-size: 3rem ;
+    border-radius: 5rem ;
+    border-width: 5px ;
+    border-color: darkseagreen;
+}
